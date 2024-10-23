@@ -1,0 +1,9 @@
+Question 3 
+given an integer array nums , return all the triplets [nums[i],nums[j],nums[k]] where nums[i]+nums[j]+nums[k]==0, 
+and the indices i , j , k are all distinct , the output should not contain any duplicate triplets. 
+you may return the output and the triplets in any order.
+
+Question 4
+given an array of strings strs, group all anagrams together into sublists. you may return the output in any order
+an anagram is a string that contains the exact same characters as another string , but the order of the chracters
+can be different
